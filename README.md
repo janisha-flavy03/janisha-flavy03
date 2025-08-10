@@ -16,7 +16,7 @@
   <!-- Phone -->
   <a href="tel:+919042477236">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/phone.png" alt="Phone"/>
-   +919042477236
+    9042477236
   </a>
   &nbsp; &nbsp;
 
@@ -26,21 +26,3 @@
     janishaflavy@gmail.com
   </a>
 </p>
-
-
-
-
-<!--
-**janisha-flavy03/janisha-flavy03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
