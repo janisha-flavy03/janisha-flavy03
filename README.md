@@ -14,9 +14,9 @@
   &nbsp; &nbsp;
 
   <!-- Phone -->
-  <a href="tel:+917904686738">
+  <a href="tel:+919042477236">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/phone.png" alt="Phone"/>
-    7904686738
+   9042477236
   </a>
   &nbsp; &nbsp;
 
