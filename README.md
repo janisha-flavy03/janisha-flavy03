@@ -1,4 +1,7 @@
-[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/janisha-flavy03)
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/janisha-flavy03)]
+[![LeetCode](https://img.icons8.com/ios-glyphs/30/000000/code.png)](https://leetcode.com/u/janisha_flavy03/)]
+[![Email](https://img.icons8.com/ios-glyphs/30/000000/new-post.png)](mailto:janishaflavy@gmail.com)]
+
 
 
 <!--
