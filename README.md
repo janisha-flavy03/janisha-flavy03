@@ -16,7 +16,7 @@
   <!-- Phone -->
   <a href="tel:+919042477236">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/phone.png" alt="Phone"/>
-   9042477236
+   +919042477236
   </a>
   &nbsp; &nbsp;
 
