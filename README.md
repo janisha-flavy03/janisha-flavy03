@@ -1,4 +1,5 @@
-## Hi there 👋
+[![GitHub](https://img.icons8.com/ios-glyphs/30/000000/github.png)](https://github.com/janisha-flavy03)
+
 
 <!--
 **janisha-flavy03/janisha-flavy03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
